@@ -1,0 +1,26 @@
+body{
+	background-image: url("../img/hema.png");
+
+}
+.centraliza{
+	 
+    float: left; 
+    position: relative; 
+         left: 43%;
+    border: 5px;
+}
+.centraliza2{
+ 
+    float: left; 
+    position: relative; 
+         left: 30%;
+    border: 5px;
+}
+.centraliza3{
+	 
+    float: left; 
+    position: relative; 
+         left: 15%;
+    
+}
+
